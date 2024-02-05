@@ -1,7 +1,7 @@
 <div align=center>
     <img src="./folia.png">
     <br /><br />
-    <p>Fork of <a href="https://github.com/PaperMC/Paper">Paper</a> which adds regionised multithreading to the dedicated server.</p>
+    <p><a href="https://github.com/PaperMC/Paper">Paper</a>的Fork，为专用服务器添加区域化多线程。</p>
 </div>
 
 ## Overview

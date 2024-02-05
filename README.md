@@ -1,7 +1,7 @@
 <div align=center>
     <img src="./folia.png">
     <br /><br />
-    <p><a href="https://github.com/PaperMC/Paper">Paper</a>的Fork，为专用服务器添加区域化多线程。这个Fork是Folia构建版本发布的地方</p>
+    <p><a href="https://github.com/PaperMC/Paper">Paper</a>的Fork，为专用服务器添加区域化多线程。</p>
 </div>
 
 ## Overview
